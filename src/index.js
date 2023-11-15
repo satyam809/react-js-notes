@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import Timer from './Timer';
+import Pagination from '../src/components/Pagination'
 import reportWebVitals from './reportWebVitals';
+//const items = ['Item 1', 'Item 2', 'Item 3', 'Item 4', 'Item 5', 'Item 6', 'Item 7', 'Item 8'];
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+   <Pagination/>
   </React.StrictMode>
 );
 
