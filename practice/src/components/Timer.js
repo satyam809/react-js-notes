@@ -1,3 +1,6 @@
+//Create a component that displays a timer that counts seconds and can be started, paused, and reset.
+
+
 import React, { useState, useEffect } from 'react';
 const Timer = () => {
   let interval;

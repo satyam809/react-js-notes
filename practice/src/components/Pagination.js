@@ -1,3 +1,6 @@
+//Create a component that displays a list of items with pagination controls.
+
+
 import React, {useState} from 'react';
 
 const Pagination = () => {

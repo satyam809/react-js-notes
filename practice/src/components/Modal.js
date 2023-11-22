@@ -1,3 +1,7 @@
+
+//Create a component that displays a modal when a button is clicked. The modal should have an overlay and a close button.
+
+
 import React, {useState} from 'react'
 
 const Modal = ()=>{

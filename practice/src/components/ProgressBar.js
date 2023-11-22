@@ -1,3 +1,4 @@
+//Create a component that displays a progress bar with a dynamic percentage.
 import React, { useState, useEffect } from 'react';
 
 const ProgressBar = () => {

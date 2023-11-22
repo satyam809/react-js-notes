@@ -1,3 +1,6 @@
+// Create a component that displays tabs. When a tab is clicked, the corresponding content is displayed.
+
+
 import React,{useState} from 'react';
 
 const Tab = ()=>{
